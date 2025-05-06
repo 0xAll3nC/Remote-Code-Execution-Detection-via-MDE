@@ -72,7 +72,7 @@ mde-rce-detection-lab/
 
 ## 👨‍💻 About Me
 
-Hi! I’m Allen Clement Justine Clement, a cybersecurity practitioner passionate about threat detection, SOC operations, and incident response.  
+Hi! I’m **Allen Clement Justine Clement**, a cybersecurity practitioner passionate about threat detection, SOC operations, and incident response.  
 This project is part of my hands-on exploration into real-world attack detection and automated response using Microsoft tools.
 
 Feel free to connect or explore my other security projects on GitHub!
