@@ -25,7 +25,7 @@ Provision a Windows VM, prepare it for remote code execution (RCE) simulation, a
    Use Azure, Hyper-V, or VMware to launch a Windows 10/11 instance.
 
 2. **Use a Strong Password**  
-   Do **not** use weak default credentials like `labuser/Cyberlab123!`. Your VM could be compromised by opportunistic attackers if left exposed.
+   Do **not** use weak default credentials. Your VM could be compromised by opportunistic attackers if left exposed.
 
 3. **Disable the Windows Firewall** *(for simulation purposes only)*  
    This helps make the VM discoverable:
