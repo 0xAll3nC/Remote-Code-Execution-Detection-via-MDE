@@ -15,8 +15,7 @@ After the detection rule is triggered and the VM is isolated, Microsoft Defender
 
 ## Accessing the Investigation Package
 
-1. Log into the Microsoft Defender Portal:  
-   [https://security.microsoft.com](https://security.microsoft.com)
+1. Log into the Microsoft Defender Portal: [https://security.microsoft.com](https://security.microsoft.com)
 
 2. Go to:
 ```
