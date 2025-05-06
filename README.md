@@ -1,4 +1,4 @@
-# 🛡️ Remote Code Execution Detection via Microsoft Defender for Endpoint (Hard Mode)
+# 🛡️ Remote Code Execution Detection via Microsoft Defender for Endpoint
 
 This project simulates a real-world Remote Code Execution (RCE) attack using PowerShell and demonstrates how to detect, contain, and investigate it using Microsoft Defender for Endpoint (MDE). The setup includes custom KQL-based detection rules, automated VM isolation, and forensic investigation package analysis — showcasing a complete incident response workflow.
 
