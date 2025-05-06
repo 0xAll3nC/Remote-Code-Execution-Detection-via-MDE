@@ -41,9 +41,7 @@ Provision a Windows VM, prepare it for remote code execution (RCE) simulation, a
 
 2. **Go to the Onboarding Section**  
 ```
-
 Settings → Endpoints → Device Management → Onboarding
-
 ````
 
 3. **Download the Onboarding Package**  
@@ -67,9 +65,7 @@ Settings → Endpoints → Device Management → Onboarding
 
 1. Navigate to:
 ````
-
 Hunting → Advanced Hunting
-
 ````
 
 2. Run this query to check log visibility:
