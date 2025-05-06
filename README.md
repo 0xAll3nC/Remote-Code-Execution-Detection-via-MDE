@@ -15,12 +15,16 @@ This project simulates a real-world Remote Code Execution (RCE) attack using Pow
 
 ## 📁 Project Structure
 
+```
+
 mde-rce-detection-lab/
 ├── README.md
 │ ├── 1_setup_environment.md
 │ ├── 2_custom_detection_rule.md
 │ ├── 3_trigger_response.md
 │ └── 4_investigation_analysis.md
+
+```
 
 ---
 
